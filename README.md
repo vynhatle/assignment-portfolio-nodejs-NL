@@ -1,4 +1,4 @@
-https://github.com/vynhatle/assignment-portfolio-nodejs-NL.git
+assignment-portfolio-nodejs-nl.azurewebsites.net
 # Node.js and Express Hosted on Microsoft Azure Template
 
 Dependencies: Node.js and Express

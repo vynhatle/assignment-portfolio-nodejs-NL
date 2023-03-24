@@ -1,4 +1,4 @@
-assignment-portfolio-nodejs-nl.azurewebsites.net
+https://assignment-portfolio-nodejs-nl.azurewebsites.net
 # Node.js and Express Hosted on Microsoft Azure Template
 
 Dependencies: Node.js and Express
